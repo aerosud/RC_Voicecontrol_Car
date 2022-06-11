@@ -6,5 +6,5 @@ I have also built a mobile app to operate the car using it via bluetooth communi
 
 <div >
   <img src="https://user-images.githubusercontent.com/107307277/173204929-f54703b1-806c-4652-9ecd-2c3014d9f629.jpeg" align = top height = "400" width="600px" border-width = "50"/>
-  <img src="https://user-images.githubusercontent.com/107307277/173204939-3b8f7068-1ed8-4e22-aa5f-29438a0e752e.jpeg" width="300px" /> 
+  <img src="https://user-images.githubusercontent.com/107307277/173204939-3b8f7068-1ed8-4e22-aa5f-29438a0e752e.jpeg" width="200px" /> 
 </div>
